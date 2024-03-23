@@ -27,5 +27,3 @@ I'm Tanabordee Tansiri (Kongtup), 4th year Robotics and Artificial Intelligence 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Lukyord"><img src="https://github-readme-stats.vercel.app/api?username=Lukyord&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="Lukyord's GitHub stats" /></a>
-
-<a href="https://github.com/Lukyord" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukyord&langs_count=10&title_color=0891b2&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
