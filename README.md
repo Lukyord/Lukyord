@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer and Designer
 -------------------------------
 
-I'm Tanabordee Tansiri (Kongtup), 4th year Robotics and Artificial Intelligence Student From International School of Engineering, Chulalongkorn University. I've been working and creating projects as a frontend developer for 2 years. Bringing designs into life on web application is my goal as a developer.
+I'm Tanabordee Tansiri (Kongtup), full-time Frontend Developer at [Plaimanas](https://plaimanas.com/), part-time web-designer and developer freelance. I've been working and creating projects for 3 years. Bringing designs into life on web application is my goal as a developer.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [tanabordeetansiri@gmail.com](mailto:tanabordeetansiri@gmail.com)
-* 🚀  I'm currently working on [Monotub User Dashboard](http://mototub-user-dashboard.vercel.app/)
+* 🚀  I'm currently working on Automating Thonburi Freshmilk Interal Payment Verification System
 
 ### Skills
 
