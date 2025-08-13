@@ -33,3 +33,5 @@ I'm Tanabordee Tansiri (Kongtup), full-time Frontend Developer at [Plaimanas](ht
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Lukyord"><img src="https://github-readme-stats.vercel.app/api?username=Lukyord&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="Lukyord's GitHub stats" /></a>
+
+![lukyord's Stats](https://github-readme-stats.vercel.app/api?username=lukyord&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
