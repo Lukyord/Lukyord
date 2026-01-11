@@ -9,7 +9,7 @@ I'm Tanabordee Tansiri (Kongtup), a full-time Frontend Developer at [Plaimanas](
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [tanabordeetansiri@gmail.com](mailto:tanabordeetansiri@gmail.com)
 * 🚀  I'm currently working on an E-commerce website for a flower studio
-* 🌐  Portfolio: https://www.tanabordeetansiri.com/
+* 🌐  Check out my [Portfolio](https://www.tanabordeetansiri.com/)
 
 ### Skills
 
