@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Creative Full stack Developer
 -------------------------------
 
-I'm Tanabordee Tansiri (Kongtup), a full-time Frontend Developer at [Plaimanas](https://plaimanas.com/), a part-time web-designer and full stack developer freelancer. I've been working and creating projects for 4 years. Bringing designs into life and solving real world problems on web application is my goal as a developer.
+I'm Tanabordee Tansiri (Kongtup), a full-time freelancer, previously a Frontend Developer at [Plaimanas](https://plaimanas.com/), and a part-time web-designer. I've been working and creating projects for 4 years. Bringing designs into life and solving real world problems on web application is my goal as a developer.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [tanabordeetansiri@gmail.com](mailto:tanabordeetansiri@gmail.com)
-* 🚀  I'm currently working on an E-commerce website for a flower studio
+* 🚀  I'm currently working on revamp webssite for theCommons
 * 🌐  Check out my [Portfolio](https://www.tanabordeetansiri.com/)
 
 ### Skills
